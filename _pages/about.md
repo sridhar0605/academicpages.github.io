@@ -15,6 +15,6 @@ Currently The Walter Lab focuses on discovery and characterization of gene mutat
 
 
 
-For more info
+Other Interests
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Soccer, Boxing, machine learning, DNN and AI.
